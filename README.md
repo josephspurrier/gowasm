@@ -3,7 +3,7 @@
 This project is a sample Go application that compiles to a WebAssembly (WASM) application for use in a web browser. This project is based on this article:
 https://tutorialedge.net/golang/writing-frontend-web-framework-webassembly-go/.
 
-This project utilizes a `Makefile`.
+This project utilizes a `Makefile`. You can run these commands:
 
 ```bash
 # Compiles a WASM application called test.wasm.
@@ -13,7 +13,7 @@ make build
 make serve
 ```
 
-You can how open your browser to: http://localhost.
+You can now open your browser to: http://localhost.
 
 References:
 
