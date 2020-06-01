@@ -9,7 +9,7 @@ This project utilizes a `Makefile`. You can run these commands:
 # Compiles a WASM application called test.wasm.
 make build
 
-# Calls 'make serve' and then runs a web server on localhost:80.
+# Calls 'make build' and then runs a web server on localhost:80.
 make serve
 ```
 
