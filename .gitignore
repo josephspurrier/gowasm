@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+thumbs.db
+
+# Go files
+/pkg
+/bin
+
+# Environment files
+.envrc
+
+# Build files
+test.wasm
+src/app/webserver/webserver
